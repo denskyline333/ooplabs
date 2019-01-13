@@ -1,0 +1,11 @@
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ConsoleApp8.deps.json
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ConsoleApp8.runtimeconfig.json
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ConsoleApp8.runtimeconfig.dev.json
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ConsoleApp8.dll
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ConsoleApp8.pdb
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.csprojAssemblyReference.cache
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.AssemblyInfoInputs.cache
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.AssemblyInfo.cs
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.dll
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ConsoleApp8.pdb

@@ -1,0 +1,4 @@
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csprojResolveAssemblyReference.cache
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfo.cs
