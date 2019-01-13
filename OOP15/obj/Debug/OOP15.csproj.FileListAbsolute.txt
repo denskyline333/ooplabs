@@ -1,0 +1,28 @@
+D:/Лабы/ООП/OOP15/OOP15/bin/Debug/OOP15.exe.config
+D:/Лабы/ООП/OOP15/OOP15/bin/Debug/OOP15.exe
+D:/Лабы/ООП/OOP15/OOP15/bin/Debug/OOP15.pdb
+D:/Лабы/ООП/OOP15/OOP15/obj/Debug/OOP15.csprojResolveAssemblyReference.cache
+D:/Лабы/ООП/OOP15/OOP15/obj/Debug/OOP15.csproj.CoreCompileInputs.cache
+D:/Лабы/ООП/OOP15/OOP15/obj/Debug/OOP15.exe
+D:/Лабы/ООП/OOP15/OOP15/obj/Debug/OOP15.pdb
+E:/projects/OOP15/OOP15/bin/Debug/OOP15.exe.config
+E:/projects/OOP15/OOP15/bin/Debug/OOP15.exe
+E:/projects/OOP15/OOP15/bin/Debug/OOP15.pdb
+E:/projects/OOP15/OOP15/obj/Debug/OOP15.csprojResolveAssemblyReference.cache
+E:/projects/OOP15/OOP15/obj/Debug/OOP15.csproj.CoreCompileInputs.cache
+E:/projects/OOP15/OOP15/obj/Debug/OOP15.exe
+E:/projects/OOP15/OOP15/obj/Debug/OOP15.pdb
+/Users/NolanRoss/Projects/OOP15/OOP15/bin/Debug/OOP15.exe.config
+/Users/NolanRoss/Projects/OOP15/OOP15/bin/Debug/OOP15.exe
+/Users/NolanRoss/Projects/OOP15/OOP15/bin/Debug/OOP15.pdb
+/Users/NolanRoss/Projects/OOP15/OOP15/obj/Debug/OOP15.csprojResolveAssemblyReference.cache
+/Users/NolanRoss/Projects/OOP15/OOP15/obj/Debug/OOP15.csproj.CoreCompileInputs.cache
+/Users/NolanRoss/Projects/OOP15/OOP15/obj/Debug/OOP15.exe
+/Users/NolanRoss/Projects/OOP15/OOP15/obj/Debug/OOP15.pdb
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab15\OOP15\bin\Debug\OOP15.exe.config
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab15\OOP15\bin\Debug\OOP15.exe
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab15\OOP15\bin\Debug\OOP15.pdb
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab15\OOP15\obj\Debug\OOP15.csproj.CoreCompileInputs.cache
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab15\OOP15\obj\Debug\OOP15.exe
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab15\OOP15\obj\Debug\OOP15.pdb
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab15\OOP15\obj\Debug\OOP15.csprojAssemblyReference.cache

@@ -1,0 +1,21 @@
+D:\Лабы\ООП\OOP16\OOP16\bin\Debug\OOP16.exe.config
+D:\Лабы\ООП\OOP16\OOP16\bin\Debug\OOP16.exe
+D:\Лабы\ООП\OOP16\OOP16\bin\Debug\OOP16.pdb
+D:\Лабы\ООП\OOP16\OOP16\obj\Debug\OOP16.csprojResolveAssemblyReference.cache
+D:\Лабы\ООП\OOP16\OOP16\obj\Debug\OOP16.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП\OOP16\OOP16\obj\Debug\OOP16.exe
+D:\Лабы\ООП\OOP16\OOP16\obj\Debug\OOP16.pdb
+E:\projects\OOP16\OOP16\bin\Debug\OOP16.exe.config
+E:\projects\OOP16\OOP16\bin\Debug\OOP16.exe
+E:\projects\OOP16\OOP16\bin\Debug\OOP16.pdb
+E:\projects\OOP16\OOP16\obj\Debug\OOP16.csprojResolveAssemblyReference.cache
+E:\projects\OOP16\OOP16\obj\Debug\OOP16.csproj.CoreCompileInputs.cache
+E:\projects\OOP16\OOP16\obj\Debug\OOP16.exe
+E:\projects\OOP16\OOP16\obj\Debug\OOP16.pdb
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab16\OOP16\bin\Debug\OOP16.exe.config
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab16\OOP16\bin\Debug\OOP16.exe
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab16\OOP16\bin\Debug\OOP16.pdb
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab16\OOP16\obj\Debug\OOP16.csprojAssemblyReference.cache
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab16\OOP16\obj\Debug\OOP16.csproj.CoreCompileInputs.cache
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab16\OOP16\obj\Debug\OOP16.exe
+D:\учеба\3 семестр\учеба\ООП\OOP-Lab16\OOP16\obj\Debug\OOP16.pdb
