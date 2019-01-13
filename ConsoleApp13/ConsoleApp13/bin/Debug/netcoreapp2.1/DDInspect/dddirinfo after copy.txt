@@ -1,0 +1,68 @@
+$RECYCLE.BIN
+15ЯП
+3-ИГиГ
+3-КСиС
+3-ЭВМ
+3-ЯП
+AIDA64 Extreme
+asm22
+asm33
+Compas
+Compasv17
+Config.Msi
+Counter-Strike 1.6
+Faceit
+FACEIT AC
+Git
+helloworld
+JavaScript
+k
+laba13
+lb 16
+LP_asm01
+LP_LAB10
+LP_Lab133
+LP_Lab16
+LP_Lab_14
+main
+msdownld.tmp
+Multisim
+Multisim 12.0.1
+Need for Speed - Most Wanted
+Net
+Notepad++
+Oracle
+PLab02
+practice
+Pro Evolution Soccer 2016
+SiSoftware Sandra Lite Titanium.SP2
+Snapshotswin7
+Snapshotswindows7
+Steam
+System Volume Information
+Teamspeak3
+WinHex
+yap14
+[R.G. Mechanics] Need for Speed - Most Wanted
+[R.G. Mechanics] Pro Evolution Soccer 2016
+АЛОЦВМ [Сдал]
+курсач
+мулыч
+Новая папка
+Новый поворот
+учеба
+ФИЛЬМЫ
+Activation_Windows_7_RUS_Ultimate_x86(32bit)_free_2.88Gb_v2.iso
+config.cfg
+in.txt
+in.txt.log
+in.txt.out
+Multisim 12.0.1.zip
+out.txt
+pagefile.sys
+TFT_________________________1.52.rar
+vs_Enterprise.exe
+Win7.vdi
+Win8.1_Russian_x32.iso
+windows_Server_2008R2.iso
+Windows_Server_2012_R2_64Bit_Russian_-4_MLF_X19-82917.ISO

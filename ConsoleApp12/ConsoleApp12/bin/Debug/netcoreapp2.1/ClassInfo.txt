@@ -1,0 +1,16 @@
+Info about class ConsoleApp12.Aviation
+
+[ ConsoleApp12.Aviation Int32 get_speed() ]
+[ ConsoleApp12.Aviation Void set_speed(Int32) ]
+[ ConsoleApp12.Aviation Void ToConsole(System.String) ]
+[ ConsoleApp12.Aviation Void Fly() ]
+[ ConsoleApp12.Aviation Void Speed() ]
+[ ConsoleApp12.Aviation Boolean Equals(System.Object) ]
+[ System.Object System.String ToString() ]
+[ System.Object Int32 GetHashCode() ]
+[ System.Object System.Type GetType() ]
+[ ConsoleApp12.Aviation Void .ctor(Int32, System.String, Int32) ]
+[ ConsoleApp12.Aviation Int32 speed ]
+[ ConsoleApp12.Aviation Int32 maxh ]
+[ ConsoleApp12.Aviation System.String airplane ]
+[ ConsoleApp12.Aviation Int32 places ]

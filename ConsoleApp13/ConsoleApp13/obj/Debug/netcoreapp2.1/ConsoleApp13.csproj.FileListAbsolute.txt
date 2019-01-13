@@ -1,0 +1,11 @@
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.deps.json
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.runtimeconfig.json
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.runtimeconfig.dev.json
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.dll
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.pdb
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.csprojAssemblyReference.cache
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.AssemblyInfoInputs.cache
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.AssemblyInfo.cs
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.dll
+D:\учеба\3 семестр\учеба\ООП\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.pdb
